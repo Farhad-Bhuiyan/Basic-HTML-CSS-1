@@ -326,3 +326,7 @@ footer a:hover{
 footer p{
   color: #8987A1;
 }
+input::placeholder,
+textarea::placeholder {
+    font-family: Arial, sans-serif;
+}
